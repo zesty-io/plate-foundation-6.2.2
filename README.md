@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/shrunyan/plate-starting-foundation/blob/master/cover.png)
+![Cover Image](https://raw.githubusercontent.com/shrunyan/plate-starting-foundation/master/cover.png)
 
 # Zurb Foundation 6.2.2
 
@@ -13,7 +13,7 @@ Blueprints can also tell Zesty.io what fonts (e.g. Google Fonts) and Javascript 
 If this is your first blueprint you should start by reviewing our [template getting started guide](https://developer.zesty.io/docs/templating/building-a-template-with-github/). If you need more information on Foundation please see the offical [Zurb Documentation](http://foundation.zurb.com/sites/docs/).
 
 
-# `plate.xml` 
+# `plate.xml`
 [plate.xml documentation](https://developer.zesty.io/docs/templating/plate-xml/)
 
 Your `plate.xml` file contains the initial instructions for your site setup. Things such as pages, page sets, datasets, content clippings and your document head.
@@ -30,7 +30,7 @@ The `js` folder is where you should add all the default javascript files you wan
 
 # `/styles`
 
-The `styles` directory contains all the style files you want included by default in each site greated from this blueprint. You can use `css`, `less` and `scss` styling. 
+The `styles` directory contains all the style files you want included by default in each site greated from this blueprint. You can use `css`, `less` and `scss` styling.
 
 *Note: Generally you should not mix different preprocessors. Stick with either `less` or `scss`.*
 

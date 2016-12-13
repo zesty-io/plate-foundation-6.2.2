@@ -42,7 +42,7 @@
 					<title><![CDATA[Welcome to Foundation: Zesty.io Blueprint]]></title>
 					<!-- wrapping content in CDATA is neccesary -->
 					<content><![CDATA[<p>To started, this file (homepage.tpl) includes some basic styles you can modify, play around with, or remove.</p>]]></content>
-					<image><![CDATA[https://raw.githubusercontent.com/zesty-io/plate-starting-foundation/master/shield.png]]></image>
+					<image><![CDATA[https://raw.githubusercontent.com/zesty-io/plate-foundation-6.2.2/master/shield.png]]></image>
 				</item>
 			</items>
 		</templateset>
