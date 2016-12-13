@@ -1,11 +1,7 @@
-![Cover Image](https://github.com/zesty-io/plate-starting-foundation/blob/master/cover.png)
+![Cover Image](https://github.com/ardeay/plate-foundation-622/blob/master/cover.png)
 
-# Starting Foundation 
-A Skeleton (Temp)Plate for Zesty.io that is used as the example repo in the template creation doc: [https://developer.zesty.io/docs/templating/building-a-template-with-github/](https://developer.zesty.io/docs/templating/building-a-template-with-github/)
-
-Zesty.io templates are comprised of multiple files that tell Zesty.io how to build a starting content configuration, and which HTML, CSS, and Javascript files to install. Templates also tell Zesty.io what to Typfaces like Google Fonts and Javascript frameworks like JQuery to start with.
-
-This is a starting foundation to creating a Template in Zesty.io
+# Foundation 6.2.2 
+Foundations framework for building sites purposed as a Zesty.io blueprint. Zesty.io blueprints are comprised of multiple files that tell Zesty.io how to build a starting content configuration, and which HTML, CSS, and Javascript files to install. Blueprints also tell Zesty.io what to Typefaces like Google Fonts and Javascript frameworks like JQuery to start with.
 
 # Plate.xml
 
@@ -17,16 +13,8 @@ Placeholder content about how variables work, the and type of variable you have 
 
 # JS Folder
 
-Placeholder content
+The Zurb Foundation javascript files
 
 # Stylesheets Folder
 
-Accepts LESS, SCSS, and vanilla CSS
-
-# Views Folder
-
-A folder of TPLs, which are HTML files that can reference [Parsley](https://developer.zesty.io/parsley-templating/)
-
-hompage.tpl, loader, 404 are required
-
-Optional snippets or other TPL files available
+SCSS files from the Foundation Sites github, they are modified to not include @imports and are ordered by the numbers prepended to the file names.
