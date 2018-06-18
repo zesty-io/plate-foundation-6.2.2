@@ -8,6 +8,8 @@ Blueprints are repositories which contain content configurations, parsley templa
 
 Blueprints can also tell Zesty.io what fonts (e.g. Google Fonts) and Javascript frameworks (e.g. JQuery) to use.
 
+An example site with this blueprint can be viewed here: https://lj40hmzh-dev.preview.zestyio.com/
+
 ## Getting Started
 
 If this is your first blueprint you should start by reviewing our [template getting started guide](https://developer.zesty.io/docs/templating/building-a-template-with-github/). If you need more information on Foundation please see the offical [Zurb Documentation](http://foundation.zurb.com/sites/docs/).
